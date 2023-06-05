@@ -1,0 +1,28 @@
+## Data Structures
+- Arrays: Indexed collection of elements with constant-time access to elements.
+- Linked Lists: Linear collection of elements where each element points to the next element.
+- Stacks: Linear data structure that follows the Last-In-First-Out (LIFO) principle.
+- Queues: Linear data structure that follows the First-In-First-Out (FIFO) principle.
+- Trees: Non-linear data structure with hierarchical relationships between elements.
+- Binary Trees: Trees where each node can have at most two child nodes.
+- Binary Search Trees: Binary trees with the property that the left child is less than the parent, and the right child is greater.
+- Hash Tables: Data structure that uses a hash function to map keys to array indices for efficient key-value pair storage and retrieval.
+- Graphs: Non-linear data structure consisting of nodes (vertices) connected by edges.
+- Depth-First Search (DFS): Traversal algorithm that explores as far as possible along each branch before backtracking.
+- Breadth-First Search (BFS): Traversal algorithm that explores all the vertices of a graph in breadth-first order.
+- Heap: Tree-based data structure with the property that the parent node is either greater or smaller than its children.
+- Trie: Tree-like data structure used for efficient retrieval of keys with common prefixes.
+- Sets: Collection of distinct elements with no particular order.
+- Maps: Collection of key-value pairs where each key is unique.
+- Linked Hash Maps: Hash table with a linked list that maintains the insertion order of elements.
+- Priority Queues: Queue where each element has a priority associated with it.
+- Bit Manipulation: Techniques for performing operations on individual bits.
+- Dynamic Programming: Problem-solving technique that uses previously computed solutions to optimize recursive algorithms.
+- Big O Notation: Mathematical notation to describe the efficiency (time and space complexity) of algorithms.
+- AVL Trees: Balanced binary search trees that ensure the height difference between left and right subtrees is at most one.
+- Red-Black Trees: Self-balancing binary search trees that ensure logarithmic time complexity for search, insert, and delete operations.
+- B-trees: Self-balancing search trees optimized for disk-based storage systems.
+- Bloom Filters: Probabilistic data structures for efficient membership testing.
+- Disjoint Sets: Data structure to track a partitioning of a set into disjoint subsets and perform operations like union and find.
+- Skip Lists: Probabilistic data structure that allows for fast search, insert, and delete operations.
+- Graph Traversals: Algorithms like Dijkstra's algorithm and A* search for finding paths in graphs with weighted edges.
